@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+    background-color: #bbb8b0 !important;
+}
+img{
+    width: 100%;
+}
+
+.content-title{
+    border-bottom: 1px solid #fff;
+}
+
+.sidebar{
+    height: fit-content;
+}
+
+.text{
+    bottom: 1rem;
+    width: 110%;
+    font-size: 1rem ;
+    
+}
+.img-box img{
+    width: 120%;
+}
+.img-box{
+    overflow: hidden;
+}
+
+.font-p {
+    font-size: 1.1rem;
+  }
